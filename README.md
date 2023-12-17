@@ -1,7 +1,7 @@
 ### Hi there, I'm Pratap Singh! 👋
 
 - 🔭 SWE@Phonepe | IIT(BHU)'23 ECE
-- 🌱 I’m currently learning Java programming
+- 🌱 Quant Researcher
 - ⚡ Love to gym and play badminton.
 
 ### Connect with me:
