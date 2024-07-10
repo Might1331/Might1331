@@ -1,6 +1,7 @@
 ### Hi there, I'm Pratap Singh! 👋
 
 - 🔭 SWE@Phonepe | IIT(BHU)'23 ECE
+- Candiate Master@CF and 5⭐@Codechef
 - 🌱 Design and Coding
 - ⚡ Love to gym and play badminton.
 
